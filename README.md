@@ -1,4 +1,4 @@
-## My name is Oleh, and I'm a 18 y.o Software Developer from Lviv, Ukraine 💙💛 \
+## My name is Oleh, and I'm a 18 y.o Software Developer from Lviv, Ukraine 💙💛
  \
  
 > ## My experience and knowledge: 
@@ -28,8 +28,9 @@
 >  * Canva
 >  * Jira
 >  * Asana
->#### And also I'm currently learning cryptography and blochchain development \
+>#### And also I'm currently learning cryptography and blochchain development
 > \
+> 
 
 
 ### *Other:*
