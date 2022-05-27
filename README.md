@@ -30,7 +30,6 @@
 >  * Jira
 >  * Asana
 >#### And also I'm currently learning cryptography and blochchain development 🔗
-> <br/>
 
 
 ### *Other:*
