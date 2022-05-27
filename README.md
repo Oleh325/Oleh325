@@ -1,5 +1,5 @@
 ## My name is Oleh, and I'm a 18 y.o Software Developer from Lviv, Ukraine 💙💛
- \
+ 
  
 > ## My experience and knowledge: 
 >I’m currently working as an Unity Game Developer for SeaChain 🐳🔗 \
@@ -29,6 +29,7 @@
 >  * Jira
 >  * Asana
 >#### And also I'm currently learning cryptography and blochchain development
+> 
 
 
 ### *Other:*
