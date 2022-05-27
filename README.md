@@ -1,6 +1,6 @@
 ## My name is Oleh, and I'm a 18 y.o Software Developer from Lviv, Ukraine 💙💛
-                                                                 
-                                                                  
+<br/>
+
 > ## My experience and knowledge: 
 >I’m currently working as an Unity Game Developer for SeaChain 🐳🔗 \
 >I've previously worked for Pangea Movement as a Community Manager (May 2021 - October 2021)
@@ -29,7 +29,7 @@
 >  * Jira
 >  * Asana
 >#### And also I'm currently learning cryptography and blochchain development 🔗
->                                                                               
+> <br/>
 
 
 ### *Other:*
