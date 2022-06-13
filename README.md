@@ -29,6 +29,8 @@
 >  * Canva
 >  * Jira
 >  * Asana
+>  * Proto.io
+>  * diagrams.net
 >#### And also I'm currently learning cryptography and blochchain development 🔗
 
 
