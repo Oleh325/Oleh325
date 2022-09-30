@@ -12,6 +12,7 @@
 >  * C++
 >  * C#
 >  * Python
+>  * JavaScript
 >### Languages I know:
 >  * Ukrainian 💙💛
 >  * English
@@ -32,6 +33,9 @@
 >  * Proto.io
 >  * diagrams.net
 >  * Postman
+>  * MySQL
+>  * HTML, Handlebars
+>  * CSS
 >#### And also I'm currently learning cryptography and blochchain development 🔗
 
 
