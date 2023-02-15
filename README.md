@@ -3,8 +3,8 @@
 <br/>
 
 > ## My experience and knowledge: 
->I've previously worked for Pangea Movement as a Community Manager (May 2021 - October 2021) \
->I've previously worked for SeaChain 🐳🔗 as an Unity Game Developer (May 2022 - October 2022)
+> * worked for Pangea Movement as a Community Manager (May 2021 - October 2021) \
+> * worked for SeaChain 🐳🔗 as an Unity Game Developer (May 2022 - October 2022)
 >### Programming languages I know: 
 >  * Java
 >  * C
@@ -40,7 +40,7 @@
 
 ### *Other:*
 - Hobbies: Planespotting, Numismatics, Speedcubing, Traveling, Piano
-- I aim on becoming a pilot in the next 10 years ✈️
+- I aim on becoming a pilot in the next 8 years ✈️
 
 
 ### **How to reach me:**
