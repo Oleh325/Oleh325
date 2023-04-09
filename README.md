@@ -3,7 +3,7 @@
 <br/>
 
 > ## My experience and knowledge: 
-> * worked for Pangea Movement as a Community Manager (May 2021 - October 2021) \
+> * worked for Pangea Movement as a Community Manager (May 2021 - October 2021)
 > * worked for SeaChain 🐳🔗 as an Unity Game Developer (May 2022 - October 2022)
 >### Programming languages I know: 
 >  * Java
