@@ -35,6 +35,12 @@
 >  * MySQL
 >  * HTML, Handlebars
 >  * CSS
+>  * Spring Boot
+>  * Spring Security
+>  * React, Redux
+>  * styled-components
+>  * Formik
+>  * Arduino Studio, Microcontroller development
 >#### And also I'm currently learning cryptography and blochchain development 🔗
 
 
