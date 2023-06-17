@@ -41,12 +41,14 @@
 >  * styled-components
 >  * Formik
 >  * Arduino Studio, Microcontroller development
+>  * Node.js, Express.js
+>  * NodeMCU ESP8266, DHT-11
 >#### And also I'm currently learning cryptography and blochchain development 🔗
 
 
 ### *Other:*
-- Hobbies: Planespotting, Numismatics, Speedcubing, Traveling, Piano
-- I aim on becoming a pilot in the next 8 years ✈️
+- Hobbies: Planespotting, Numismatics, Speedcubing, Travelling, Piano, Collecting manga, Learning languages
+- I aim on becoming a pilot in the next 6 years ✈️
 
 
 ### **How to reach me:**
