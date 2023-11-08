@@ -1,4 +1,4 @@
-## My name is Oleh, and I'm a 19 y.o Software Developer from Lviv, Ukraine 💙💛
+## My name is Oleh, and I'm a 20 y.o Software Developer from Lviv, Ukraine 💙💛
 <br/>
 
  ## My experience and knowledge: 
