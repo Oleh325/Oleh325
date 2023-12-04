@@ -42,12 +42,12 @@
   * Arduino Studio, Microcontroller development
   * Node.js, Express.js
   * NodeMCU ESP8266, DHT-11
-#### And also I'm currently learning cryptography and blochchain development 🔗
+#### Also I'm currently learning cryptography and blockchain development 🔗
 <br/>
 
 ### *Other:*
 - Hobbies: Planespotting, Numismatics, Speedcubing, Travelling, Piano, Collecting manga, Learning languages
-- I aim on becoming a pilot in the next 6 years ✈️
+- I aim to become a pilot in the next 5 years ✈️
 <br/>
 
 ### **How to reach me:**
