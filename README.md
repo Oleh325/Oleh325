@@ -4,19 +4,22 @@
  ## My experience and knowledge: 
  * worked for Pangea Movement as a Community Manager (May 2021 - October 2021)
  * worked for SeaChain 🐳🔗 as an Unity Game Developer (May 2022 - October 2022)
-### Programming languages I know: 
+### Programming languages I've worked with: 
   * Java
   * C
   * C++
   * C#
   * Python
-  * JavaScript
-### Languages I know:
+  * JavaScript, Typescript
+  * Solidity
+### Languages I know or am currently learning:
   * Ukrainian 💙💛
   * English
-  * Belarusian 🤍❤️🤍
+  * Belarusian
   * ~~russian~~
   * Polish
+  * Japanese
+  * Inuktitut
 ### Worked with: 
   * GitHub
   * Unity
@@ -33,15 +36,19 @@
   * Postman
   * MySQL
   * HTML, Handlebars
-  * CSS
+  * CSS, styled-components, SASS
   * Spring Boot
   * Spring Security
   * React, Redux
-  * styled-components
   * Formik
   * Arduino Studio, Microcontroller development
   * Node.js, Express.js
   * NodeMCU ESP8266, DHT-11
+  * Next.js
+  * Metamask, Trust Wallet
+  * Hardhat
+  * Fleek, IPFS
+  * ERC-20
 #### Also I'm currently learning cryptography and blockchain development 🔗
 <br/>
 
