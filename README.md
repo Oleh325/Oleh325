@@ -45,10 +45,12 @@
   * Node.js, Express.js
   * NodeMCU ESP8266, DHT-11
   * Next.js
+  * Chainlink VRF, Chainlink Automation
   * Metamask, Trust Wallet
   * Hardhat
   * Fleek, IPFS
   * ERC-20
+  * AAVE v2.0
 #### Also I'm currently learning cryptography and blockchain development 🔗
 <br/>
 
