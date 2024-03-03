@@ -21,18 +21,17 @@
   * Japanese
   * Inuktitut
 ### Worked with: 
+#### Services:
   * GitHub
-  * Unity
-  * VisualStudio
-  * VisualStudio Code
-  * IntelliJ Idea
-  * SourceTree 
   * Figma
   * Canva
   * Jira
   * Asana
   * Proto.io
   * diagrams.net
+#### Gamedev:
+  * Unity
+#### Full-stack Web development:
   * Postman
   * MySQL
   * HTML, Handlebars
@@ -41,17 +40,19 @@
   * Spring Security
   * React, Redux
   * Formik
-  * Arduino Studio, Microcontroller development
+#### Microcontroller development:
+  * Arduino Studio
   * Node.js, Express.js
   * NodeMCU ESP8266, DHT-11
+#### Full-stack Web3 development:
   * Next.js
   * Chainlink VRF, Chainlink Automation
   * Metamask, Trust Wallet
   * Hardhat
   * Fleek, IPFS
-  * ERC-20
+  * ERC-20, ERC-721
   * AAVE v2.0
-#### Also I'm currently learning cryptography and blockchain development 🔗
+  * EVM
 <br/>
 
 ### *Other:*
