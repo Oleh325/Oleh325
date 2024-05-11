@@ -55,6 +55,9 @@
   * ERC-20, ERC-721
   * AAVE v2.0
   * EVM
+  * Uniswap v2 and v3
+  * Foundry
+  * Smart contract audits, slither/aderyn
 <br/>
 
 ### *Other:*
