@@ -5,7 +5,7 @@
  * Worked at Pangea Movement as a Community Manager (May 2021 - October 2021)
  * Worked at SeaChain 🐳🔗 as a Unity Game Developer (May 2022 - October 2022)
  * Worked at Gate.io as a Local Community Manager (Mar 2024 - May 2024)
- * Currently working at OmiSoft as a Trainee Full-stack Web3 Developer (Apr 2024 - present)
+ * Currently working at OmiSoft as a Full-stack Web3 Developer (Apr 2024 - present)
 ### Programming languages I've worked with: 
   * Java
   * C
