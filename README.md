@@ -74,4 +74,4 @@
 - Instgram: @planespotter325
 - Telegram: @planespotter325
 - Facebook: https://www.facebook.com/planespotter325/
-- LinkedIn: https://www.linkedin.com/in/oleh-yatskiv-8746b820b
+- LinkedIn: https://www.linkedin.com/in/oleh325/
