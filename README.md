@@ -1,4 +1,4 @@
-## My name is Oleh, and I'm a 20 y.o Software Developer from Lviv, Ukraine 💙💛
+## My name is Oleh, and I'm a 22 y.o Software Developer from Lviv, Ukraine 💙💛
 <br/>
 
  ## My experience and knowledge: 
@@ -12,8 +12,9 @@
   * C++
   * C#
   * Python
-  * JavaScript, Typescript
+  * JavaScript & Typescript
   * Solidity
+  * Rust
 ### Languages I know or am currently learning:
   * Ukrainian 💙💛
   * English
@@ -24,13 +25,13 @@
   * Inuktitut
 ### Worked with: 
 #### Services:
-  * GitHub
+  * GitHub & GitLab
   * Figma
   * Canva
   * Jira
   * Asana
   * Proto.io
-  * diagrams.net
+  * diagrams.net, excalidraw
 #### Gamedev:
   * Unity
 #### Full-stack Web development:
@@ -38,8 +39,7 @@
   * MySQL
   * HTML, Handlebars
   * CSS, styled-components, SASS
-  * Spring Boot
-  * Spring Security
+  * Spring Boot, Spring Security
   * React, Redux
   * Formik
 #### Microcontroller development:
@@ -47,22 +47,27 @@
   * Node.js, Express.js
   * NodeMCU ESP8266, DHT-11
 #### Full-stack Web3 development:
-  * Next.js
-  * Chainlink VRF, Chainlink Automation
-  * Metamask, Trust Wallet
-  * Hardhat
+  * Next.js, React
+  * MongoDB & Mongoose, MySQL, PostgreSQL & Prisma ORM
+  * Node & Express.js
+  * Telegraf.js, Telegram star payments
+  * Chainlink VRF, Chainlink Automation, Proof-of-Play
+  * Metamask, Trust Wallet, Abstract Global Wallet
+  * Hardhat, Foundry
   * Fleek, IPFS
-  * ERC-20, ERC-721
+  * ERC-20, ERC-721, ERC-1155, EIP-712
   * AAVE v2.0
-  * EVM
-  * Uniswap v2 and v3
-  * Foundry
+  * EVM, Solana
+  * OpenZeppelin, solady
   * Smart contract audits, slither/aderyn
+  * Solana programs (Rust & Anchor)
+  * Ethereum, Arbitrum, BSC, Abstract
+  * IDOs with vesting, staking
 <br/>
 
 ### **Other:**
 - Hobbies: Planespotting, Numismatics, Speedcubing, Travelling, Piano, Collecting manga, Learning languages
-- I aim to become a pilot in the next 5 years ✈️
+- I aim to become a pilot in the next 4 years ✈️
 <br/>
 
 ### **How to reach me:**
